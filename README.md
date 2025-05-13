@@ -1,4 +1,4 @@
-# Zero-Shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities
+# Zero-Shot Statistical Tests for LLM-Generated Text Detection and Attribution using Finite Sample Concentration Inequalities
 
 This repository contains the official code to replicate experiments from our paper:
 
