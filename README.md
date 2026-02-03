@@ -2,8 +2,8 @@
 
 This repository contains the official code to replicate experiments from our paper:
 
-📄 **[Zero-Shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities](https://arxiv.org/abs/2501.02406)**  
-*Authors: Tara Radvand, Mojtaba Abdolmaleki, Mohamed Mostagir, Ambuj Tewari*
+%📄 **[Zero-Shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities](https://arxiv.org/abs/2501.02406)**  
+%*Authors: Tara Radvand, Mojtaba Abdolmaleki, Mohamed Mostagir, Ambuj Tewari*
 
 
 🔗 **Live Demo**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/tararad/Liketropy-LLM-Detector)
