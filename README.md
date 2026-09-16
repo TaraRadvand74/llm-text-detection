@@ -61,7 +61,7 @@ If you use this code or build upon our work, please cite:
 ```bibtex
 @article{radvand2025zero,
   title={Zero-Shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities},
-  author={Radvand, Tara and Abdolmaleki, Mojtaba and Mostagir, Mohamed and Tewari, Ambuj},
+  author={Radvand, Tara, Duenyas, Izak, and Tewari, Ambuj},
   journal={arXiv preprint arXiv:2501.02406},
   year={2025}
 }
